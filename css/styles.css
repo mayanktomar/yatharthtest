@@ -1,0 +1,50 @@
+#main{
+	max-width: 950px;
+
+}
+#main h2{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#auth{
+	margin-bottom: 25px;
+}
+#flw button{
+	float: right;
+	
+	padding: 5px 8px 5px 8px;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #2b4a8b;
+}
+
+ .btn-outline-info{
+	color: #2b4a8b;
+	border-color: #2b4a8b;
+}
+.btn-outline-info:hover{
+		background-color: #2b4a8b;
+}	
+
+
+
+
+#author img{
+	max-width: 50px;
+	max-height: 50px;
+	border-radius: 50%;
+	margin-right: 10px;
+	float: left;
+
+	
+}
+
+#sugg{
+	margin-top: 25px;
+}
+
+#sugitem{
+	border: 2px solid #2b4a8b;
+	margin: 5px;
+}
