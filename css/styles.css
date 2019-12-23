@@ -40,6 +40,15 @@
 	
 }
 
+@media only screen and (max-width: 400px){
+	 .navbar a{
+		max-width: 50%;
+	}
+	.navbar img{
+		max-width: 100%;
+	}
+}
+
 #sugg{
 	margin-top: 25px;
 	margin-bottom: 25px;
